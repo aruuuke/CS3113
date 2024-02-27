@@ -1,1 +1,1 @@
-<img width="1280" alt="pong_photo" src="https://github.com/aruuuke/CS3113/assets/47250679/707c2f2e-917a-49d1-afa9-710a9d0996d7">
+<img width="926" alt="Screenshot 2024-02-26 at 7 30 40 PM" src="https://github.com/aruuuke/CS3113/assets/47250679/f593a805-d151-4bd3-a652-50aa79922364">
